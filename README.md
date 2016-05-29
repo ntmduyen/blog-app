@@ -6,7 +6,7 @@ Submitted by: **Duyen Nguyen**
 
 Time spent: **3** hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: https://gentle-gorge-73179.herokuapp.com
 
 ## User Stories
 
